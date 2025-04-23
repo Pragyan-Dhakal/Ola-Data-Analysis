@@ -66,9 +66,7 @@ Run pre-built SQL views from Solutions.sql
 
 Open Ola Analysis.pbix in Power BI for visuals
 
-📬 Contact
-For questions or collaborations:
-
-Email: pragyan036@gmail.com
-
-LinkedIn: Pragyan Dhakal
+## 📬 Contact  
+For questions or collaborations:  
+- **Email**: pragyan036@gmail.com  
+- **LinkedIn**: [Pragyan Dhakal][(https://linkedin.com/in/Pragyan Dhakal)](https://www.linkedin.com/in/pragyan-dhakal-b3a952319/)  
