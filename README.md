@@ -1,4 +1,3 @@
-```markdown
 # OLA Ride Data Analysis: Bengaluru Insights  
 **End-to-end analysis of 100K synthetic ride records**  
 
@@ -12,13 +11,12 @@
 ---
 
 ## 📂 Repository Structure  
-```
-├── Ola Project.sql        # Database setup & analytical views  
-├── solution.sql           # View for easy access to the solution 
-├── Ola Analysis.pbix      # Interactive Power BI dashboard  
-├── Ola Data.xlsx          # Raw data in Excel
-├── README.md              # Project documentation  
-```
+├── Ola Project.sql # Database setup & analytical views
+├── solution.sql # View for easy access to the solution
+├── Ola Analysis.pbix # Interactive Power BI dashboard
+├── Ola Data.xlsx # Raw data in Excel
+├── README.md # Project documentation
+
 
 ---
 
@@ -62,18 +60,15 @@
 1. **Database Setup**:  
    ```sql
    mysql> source Ola_Project.sql;
-   ```
-2. **Explore Data**:  
-   - Run pre-built SQL views from `Solutions.sql`  
-   - Open `Ola Analysis.pbix` in Power BI for visuals  
+Explore Data:
 
----
+Run pre-built SQL views from Solutions.sql
 
-## 📬 Contact  
-For questions or collaborations:  
-- **Email**: [pragyan036@gmail.com](mailto:pragyan036@gmail.com)  
-- **LinkedIn**: [Pragyan Dhakal](https://www.linkedin.com/in/pragyan-dhakal-b3a952319/)  
+Open Ola Analysis.pbix in Power BI for visuals
 
+📬 Contact
+For questions or collaborations:
 
+Email: pragyan036@gmail.com
 
-
+LinkedIn: Pragyan Dhakal
