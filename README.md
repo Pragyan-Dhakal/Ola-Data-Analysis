@@ -11,11 +11,16 @@
 ---
 
 ## 📂 Repository Structure  
-├── Ola Project.sql # Database setup & analytical views
-├── solution.sql # View for easy access to the solution
-├── Ola Analysis.pbix # Interactive Power BI dashboard
-├── Ola Data.xlsx # Raw data in Excel
-├── README.md # Project documentation
+├── Ola Project.sql : Database setup & analytical views
+
+├── solution.sql : View for easy access to the solution
+
+├── Ola Analysis.pbix : Interactive Power BI dashboard
+
+├── Ola Data.xlsx : Raw data in Excel
+
+├── README.md :Project documentation
+
 
 
 ---
