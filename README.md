@@ -14,20 +14,18 @@
 ## 📂 Repository Structure  
 ```
 ├── Ola Project.sql        # Database setup & analytical views  
-├── solution.sql           # view for easy access to the solution 
+├── solution.sql           # View for easy access to the solution 
 ├── Ola Analysis.pbix      # Interactive Power BI dashboard  
-├── Ola Data.xlsx          # Raw data in excel
+├── Ola Data.xlsx          # Raw data in Excel
 ├── README.md              # Project documentation  
 ```
 
 ---
 
-## 🗃️ Core Data Highlights
-
+## 🗃️ Core Data Highlights  
 - **1 lakh records** with 18 columns, including:  
   - Booking status, vehicle type (7 categories), payment methods  
-  - Ride distance, ratings (driver/customer), cancellation reasons
-
+  - Ride distance, ratings (driver/customer), cancellation reasons  
 - **Targets Met**:  
   - Success rate (62%), Customer cancellations ≤7%, Incomplete rides <6%  
   - Weekend surge in booking value (+21% vs. weekdays)  
@@ -73,5 +71,9 @@
 
 ## 📬 Contact  
 For questions or collaborations:  
-- **Email**: pragyan036@gmail.com  
-- **LinkedIn**: [Pragyan Dhakal][(https://linkedin.com/in/Pragyan Dhakal)](https://www.linkedin.com/in/pragyan-dhakal-b3a952319/)  
+- **Email**: [pragyan036@gmail.com](mailto:pragyan036@gmail.com)  
+- **LinkedIn**: [Pragyan Dhakal](https://www.linkedin.com/in/pragyan-dhakal-b3a952319/)  
+
+
+
+
